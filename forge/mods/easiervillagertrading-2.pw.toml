@@ -1,0 +1,13 @@
+name = "EasierVillagerTrading reForged"
+filename = "EasierVillagerTrading-forge-1.19.2-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "660e33d1fae724629e9a38c85ddfa6757d141653"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3951425
+project-id = 628156

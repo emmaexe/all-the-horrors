@@ -1,0 +1,13 @@
+name = "The Slender Man"
+filename = "Slenderman1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "118c0b83f244b670b0fabf41d504a46326b3eb85"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4442853
+project-id = 631269

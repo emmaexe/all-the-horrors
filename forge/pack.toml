@@ -1,0 +1,16 @@
+name = "All The Horrors"
+author = "emmaexe"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2f03bbd93db2d7b20a77165be35f7b6f1403969d206423df24a372446bde7643"
+
+[versions]
+forge = "43.3.5"
+minecraft = "1.19.2"
+
+[options]
+acceptable-game-versions = []

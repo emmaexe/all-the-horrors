@@ -1,0 +1,13 @@
+name = "Just Enough Resources (JER)"
+filename = "JustEnoughResources-1.19.2-1.2.2.200.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uEfK2CXF/versions/hCg1eHjd/JustEnoughResources-1.19.2-1.2.2.200.jar"
+hash-format = "sha1"
+hash = "c55206249be5edf1e09609ddc15485caba6c0f96"
+
+[update]
+[update.modrinth]
+mod-id = "uEfK2CXF"
+version = "hCg1eHjd"

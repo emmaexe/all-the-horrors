@@ -1,0 +1,51 @@
+{
+	"general": {
+		"potionAffectsVision": true,
+		"creativeOverrides": false,
+		"disableFireOverlay": false,
+		"fireOverlayOffset": -25
+	},
+	"overworld": {
+		"overworldFogRemove": false,
+		"overworldFogStartDistance": 17,
+		"overworldFogEndDistance": 100
+	},
+	"void_": {
+		"enableVoidFog": false,
+		"voidFogStartDistance": 7,
+		"voidFogEndDistance": 80,
+		"yLevelActivate": 0,
+		"enableVoidParticles": false,
+		"voidFogAffectedBySkylight": true
+	},
+	"nether": {
+		"netherFogRemove": false,
+		"netherFogStartDistance": 32,
+		"netherFogEndDistance": 64
+	},
+	"end": {
+		"endFogRemove": false,
+		"endFogStartDistance": 32,
+		"endFogEndDistance": 64
+	},
+	"lava": {
+		"lavaFogRemove": false,
+		"lavaFogStartDistance": 10,
+		"lavaFogEndDistance": 20
+	},
+	"water": {
+		"waterFogRemove": false,
+		"waterFogStartDistance": 20,
+		"waterFogEndDistance": 50,
+		"disableWaterOverlay": false
+	},
+	"frostbite": {
+		"frostbiteFogRemove": false,
+		"frostbiteFogStartDistance": 1,
+		"frostbiteFogEndDistance": 5,
+		"disableFrostbiteOverlay": false
+	},
+	"blindness": {
+		"blindnessFogRemove": false
+	}
+}

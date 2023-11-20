@@ -1,0 +1,13 @@
+name = "Cave Dweller Sound Overhaul"
+filename = "CaveDweller_SoundOverhaul.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6474d245edf175f01bfaee4a8825575edccdbde8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4740659
+project-id = 910544

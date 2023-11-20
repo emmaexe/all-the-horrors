@@ -1,0 +1,13 @@
+name = "Enchantment Descriptions"
+filename = "EnchantmentDescriptions-Forge-1.19.2-13.0.14.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UVtY3ZAC/versions/Gw7efrux/EnchantmentDescriptions-Forge-1.19.2-13.0.14.jar"
+hash-format = "sha1"
+hash = "20bf3e1c6e100e0e34d0b5f3d92512afead735ad"
+
+[update]
+[update.modrinth]
+mod-id = "UVtY3ZAC"
+version = "Gw7efrux"

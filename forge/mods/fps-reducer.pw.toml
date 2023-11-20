@@ -1,0 +1,13 @@
+name = "FPS Reducer"
+filename = "FpsReducer2-forge-1.19.2-2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iZ10HXDj/versions/N8HANFRr/FpsReducer2-forge-1.19.2-2.1.jar"
+hash-format = "sha1"
+hash = "5989e6103fe38e50c7335eba000e358c1f887f17"
+
+[update]
+[update.modrinth]
+mod-id = "iZ10HXDj"
+version = "N8HANFRr"

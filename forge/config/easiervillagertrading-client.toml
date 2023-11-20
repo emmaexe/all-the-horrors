@@ -1,0 +1,5 @@
+
+[general]
+	#Make 'trade all' default
+	shiftSwapped = false
+

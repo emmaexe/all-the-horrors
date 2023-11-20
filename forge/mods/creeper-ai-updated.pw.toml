@@ -1,0 +1,13 @@
+name = "Creeper AI Updated"
+filename = "creeperaiupdated-forge-1.5.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YnAkda0q/versions/n0S2wlok/creeperaiupdated-forge-1.5.2.jar"
+hash-format = "sha1"
+hash = "eae0280c1d053c5dae1c716131e8fabd2f37a881"
+
+[update]
+[update.modrinth]
+mod-id = "YnAkda0q"
+version = "n0S2wlok"

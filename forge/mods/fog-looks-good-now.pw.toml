@@ -1,0 +1,13 @@
+name = "Fog Looks Good Now"
+filename = "betterfog-1.19.2-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Bno70aWr/versions/uw4XHhfA/betterfog-1.19.2-1.1.2.jar"
+hash-format = "sha1"
+hash = "5e31138bbf58bdc4164e21c312d22ffe21f85a81"
+
+[update]
+[update.modrinth]
+mod-id = "Bno70aWr"
+version = "uw4XHhfA"

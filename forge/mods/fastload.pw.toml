@@ -1,0 +1,13 @@
+name = "Fastload"
+filename = "Fastload-Reforged-mc1.19.2-3.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kCpssoSb/versions/nHeyxX0A/Fastload-Reforged-mc1.19.2-3.4.0.jar"
+hash-format = "sha1"
+hash = "5f6d5d42f89d11d8e59f3df992d48ce5928da73a"
+
+[update]
+[update.modrinth]
+mod-id = "kCpssoSb"
+version = "nHeyxX0A"

@@ -1,0 +1,13 @@
+name = "Simple Discord RPC"
+filename = "SimpleRPC-forge-1.19-3.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ObXSoyrn/versions/XFIn7X0m/SimpleRPC-forge-1.19-3.2.4.jar"
+hash-format = "sha1"
+hash = "7ce4bc33a587cc984145175d8b7bad5b489b119f"
+
+[update]
+[update.modrinth]
+mod-id = "ObXSoyrn"
+version = "XFIn7X0m"

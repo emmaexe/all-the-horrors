@@ -1,0 +1,13 @@
+name = "Kotlin for Forge"
+filename = "kotlinforforge-3.12.0-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ordsPcFz/versions/NBn3sEQk/kotlinforforge-3.12.0-all.jar"
+hash-format = "sha1"
+hash = "cf09c1be6d8950e3f7551f02f141818aee5a3ec0"
+
+[update]
+[update.modrinth]
+mod-id = "ordsPcFz"
+version = "NBn3sEQk"

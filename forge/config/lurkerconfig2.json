@@ -1,0 +1,10 @@
+{
+  "lurker_chase_music": true,
+  "lurker_spawn_rate": 1,
+  "the spawn rate can range from 1 to 5, with 1 being the lowest and 5 being the highest.": 0,
+  "pop_up_jumpscare": true,
+  "jumpscare_sound": true,
+  "blindness_in_chase": false,
+  "longer_lurker_chase": false,
+  "spooky_ambience": true
+}

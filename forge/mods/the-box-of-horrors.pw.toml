@@ -1,0 +1,13 @@
+name = "The Box Of Horrors"
+filename = "BOH_0.0.2.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Nt0wLqt5/versions/efeCFglx/BOH_0.0.2.5.jar"
+hash-format = "sha1"
+hash = "c2096721ee77a288869581f6362596c24422349f"
+
+[update]
+[update.modrinth]
+mod-id = "Nt0wLqt5"
+version = "efeCFglx"

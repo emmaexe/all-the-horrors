@@ -1,0 +1,13 @@
+name = "Cave Dweller Reimagined"
+filename = "Cave Dweller Reimagined.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4090f44143e33f9d530a10556c590d54683c9e2e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4791379
+project-id = 921557

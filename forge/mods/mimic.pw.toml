@@ -1,0 +1,13 @@
+name = "Mimic"
+filename = "Mimic-forge-1.19.1-1.2.38.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ePo6jqBP/versions/fIniKmXu/Mimic-forge-1.19.1-1.2.38.jar"
+hash-format = "sha1"
+hash = "3a33db2000ea7b784359eca13f9a463c7f845e67"
+
+[update]
+[update.modrinth]
+mod-id = "ePo6jqBP"
+version = "fIniKmXu"

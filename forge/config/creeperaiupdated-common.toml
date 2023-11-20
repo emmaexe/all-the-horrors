@@ -1,0 +1,22 @@
+
+[general]
+	#Probability of creepers spawning powered.
+	#Range: 0.0 ~ 1.0
+	powered_prob = 0.3
+	#Maximum distance a creeper can see and follow you. (32 = vanilla)
+	#Range: 0 ~ 2048
+	follow_range = 32
+	#Maximum distance a creeper can decide to explode.
+	#Range: 0 ~ 2048
+	breach_range = 30
+	#Creeper ability to breach trough walls or not
+	can_break_walls = true
+	#Creeper ability to leap at targets
+	can_leap = true
+	#Creeper explosions cause fire
+	fire_explosions = false
+	#Maximum Y layer where creepers can spawn with the breaching ability.(Sea level = 62)
+	maxLayer = 320
+	#Minimum Y layer where creepers can spawn with the breaching ability.(Sea level = 62)
+	minLayer = -64
+
