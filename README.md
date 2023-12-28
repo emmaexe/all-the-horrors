@@ -1,6 +1,8 @@
 ![Banner image](https://raw.githubusercontent.com/emmaexe/all-the-horrors/main/assets/banner.png)
 
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/license/gpl-3-0/)
+[![Modrinth Downloads](https://img.shields.io/modrinth/dt/6r1JB5T3?logo=modrinth)](https://modrinth.com/modpack/all-the-horrors)
+[![Modrinth Followers](https://img.shields.io/modrinth/followers/6r1JB5T3?logo=modrinth)](https://modrinth.com/modpack/all-the-horrors)
 
 # All The Horrors
 

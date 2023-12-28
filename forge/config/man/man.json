@@ -1,0 +1,13 @@
+{
+  "spawn_rate": "normal",
+  "jumpscare": true,
+  "max_chase_duration": 1000,
+  "min_chase_duration": 400,
+  "climbing": true,
+  "vanish_distance": 30,
+  "spawn_at_day": false,
+  "darkness_effect": true,
+  "all_dimensions": false,
+  "break_blocks": true,
+  "darkness_effect_duration": 150
+}

@@ -1,0 +1,13 @@
+name = "Larger Ore Veins: Diamond"
+filename = "larger-ore-veins-diamond-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rZbXcApg/versions/HWR0KyVn/larger-ore-veins-diamond-1.1.1.jar"
+hash-format = "sha1"
+hash = "d38bc7d41c25df2cb75c084e3a5681835367c336"
+
+[update]
+[update.modrinth]
+mod-id = "rZbXcApg"
+version = "HWR0KyVn"

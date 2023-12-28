@@ -78,7 +78,7 @@ hash = "46becc245e9776805eb68f2712904492158c306e09b9a1b42c717c7fb8be33fc"
 
 [[files]]
 file = "config/creeperaiupdated-common.toml"
-hash = "57123ecdfc28b0dfabdbd3a90bc573494c7137564189fc31ebd8e7900fa04ead"
+hash = "e5bc4aacf5e8f94abeef001c03e2941f973350b673d110385bbfa01ef25564bc"
 
 [[files]]
 file = "config/defaultoptions-common.toml"
@@ -237,6 +237,14 @@ file = "config/lurkerconfig2.json"
 hash = "96975f63c32465f765a249b1e7fcd23552c2cf087c167b3ad44126c27f6e98f4"
 
 [[files]]
+file = "config/man/man.json"
+hash = "51c217a141fb9a016cdc5e8fecb411f30e7391fe9dbc70dfbb5ace9ba8313a86"
+
+[[files]]
+file = "config/man/mod_version.json"
+hash = "3dd03b04d6ecaf9ff387ef11c43b342030c7bb2a94b4d150cbf6a77dfd8eed8b"
+
+[[files]]
 file = "config/mimic-server.toml"
 hash = "84f8f6fc287df6c4936ff2cc1f81f4db9b2e5ea5b57fc257dc11541623097266"
 
@@ -294,15 +302,15 @@ hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "250dc3c11e9df4f2cf45c44f83d65d969ad3160d311dcbf571ff31e69b90a288"
+hash = "8bb3fda8fb43004dec9a35b78b8d392575050c1152777007b0bf7ac977bff0ec"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "358a66666c5df42ba6216e678e343de7c8355da98b843016a1ed0e2841e576d0"
+hash = "04f90498d10ca01252565fa0c1ac066ab2dd451c1b20a42209b6e0c6ceaac3fd"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "7d35721d83989f742a215f80f8064ad49cf497aaefa6173d0363da549e77693e"
+hash = "8229a2843f0e2ddcc16822ebb429e48c07499e81130911807deca3a9aa36b4b7"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -388,12 +396,17 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "a70312f0489f68cd87b03bd6dfc0e6cad1b33b57c49a6e1040506e7317f954c9"
+hash = "edde596d1a457688a41f5cc7816e20e62fee544382ac8ea623cd3b424fc2d4a9"
 metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "7342959eb86faf584e6d64417064dd793ae6b4667f51954f4169d11fe5f0d5da"
+metafile = true
+
+[[files]]
+file = "mods/corgilib.pw.toml"
+hash = "1052dacc31da664492ac60677ba33f4f4402592b6897908b700000f68c04f176"
 metafile = true
 
 [[files]]
@@ -419,6 +432,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "4513f335ca3218be14b25379fad8cdfefc7d91be487cbb97aa9e718751440746"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-celestials.pw.toml"
+hash = "dd62a3608a8a014eeb36db4d5a75e2300e2ea4bb3cc07f806469a455b99c6c69"
 metafile = true
 
 [[files]]
@@ -477,11 +495,6 @@ hash = "cf303e609b0beaf097122eecfa869d21be642e22465021f4f5aa0fa38c72b119"
 metafile = true
 
 [[files]]
-file = "mods/gravestone-mod.pw.toml"
-hash = "b6e8ce03539086dd35fe1a87295bde0a70302c73a97c4cf11da7329ab2f68340"
-metafile = true
-
-[[files]]
 file = "mods/jade.pw.toml"
 hash = "cca4b243ff01543c5e7f2b943bc69e969ca804d1212c53d29974c2a2abd70eed"
 metafile = true
@@ -509,6 +522,16 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "94d853ec0def62adb527aee046f2c4a32127076c2995ea5c29553534544e1c35"
+metafile = true
+
+[[files]]
+file = "mods/larger-ore-veins-diamond.pw.toml"
+hash = "b16dffb18908942c561be2900661e84a3b52f899b7fcd93af4d1e790a07df58a"
+metafile = true
+
+[[files]]
+file = "mods/larger-ore-veins-nether.pw.toml"
+hash = "242afcd790c6a60276b7e92eacb839a3cb960853632704c81a5aee0d333763dc"
 metafile = true
 
 [[files]]
@@ -622,6 +645,11 @@ hash = "f6349b16b85e3ebca50a39b187e769dbd1fbdbd1ae7d85191c452848384cec1e"
 metafile = true
 
 [[files]]
+file = "mods/the-man-from-the-fog.pw.toml"
+hash = "c3b0fd43d918b936224586bf5d96660fc605fb072e1a62f26dadcbdce9ca199f"
+metafile = true
+
+[[files]]
 file = "mods/the-midnight-lurker.pw.toml"
 hash = "75bbe4f82bed8b9987beb0b32c40bc4e715ec57331b3ec4c4395234f3f183437"
 metafile = true
@@ -649,4 +677,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
 hash = "cacc2b23114b421113a325175ab270ed34a177b6612efe92665532bc34379255"
+metafile = true
+
+[[files]]
+file = "shaderpacks/insanity-shader.pw.toml"
+hash = "a75fbb782eeb80682c3c742edc9496960f7eaccb7387a1f978cc4175797d661d"
 metafile = true
