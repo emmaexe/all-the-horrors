@@ -1,8 +1,11 @@
 ![Banner image](https://raw.githubusercontent.com/emmaexe/all-the-horrors/main/assets/banner.png)
 
+[![Available on GitHub](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg)](https://github.com/emmaexe/all-the-horrors/)
+[![Available on Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/modpack/all-the-horrors)
+![Available for Forge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/forge_vector.svg)
+
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/license/gpl-3-0/)
 [![Modrinth Downloads](https://img.shields.io/modrinth/dt/6r1JB5T3?logo=modrinth)](https://modrinth.com/modpack/all-the-horrors)
-[![Modrinth Followers](https://img.shields.io/modrinth/followers/6r1JB5T3?logo=modrinth)](https://modrinth.com/modpack/all-the-horrors)
 
 # All The Horrors
 
@@ -13,13 +16,6 @@
 <details>
     <summary>⚠️ Version warning!</summary>
     This modpack is in a pre-release state. Until it reaches version 1.0.0, mods may be added and removed as the experience the modpack provides is getting tweaked according to beta testers' feedback.
-</details>
-<br>
-<details>
-    <summary>ℹ️ Texture pack notice</summary>
-    For this modpack, it is recommended you use the <a href="https://legacy.curseforge.com/minecraft/texture-packs/cave-dweller-sound-overhaul" target="_blank" rel="noopener noreferrer">Cave Dweller Sound Overhaul</a> texture pack. It is not available in this modpack on github or modrinth due to licencing issues.
-    <br>
-    Another note. Although the pack works fine on 1.19.2, minecraft will report it as broken due to the way that minecraft texture pack versions work. It is safe to ignore this and install and use it anyway. It does not modify any textures, only sounds. It also does not modify any sounds from minecraft itself, only the cave dweller mod.
 </details>
 <br>
 
@@ -39,21 +35,18 @@ The best way would be via the [modrinth page](https://modrinth.com/modpack/all-t
 
 This modpack supports shaders. The mod selection includes lots of optimization mods similar to optimization focused modpacks like Fabulously Optimized/Simply Optimized, but in forge. The list of included optimization mods was inspired by the [Immersed With Shaders](https://www.curseforge.com/minecraft/modpacks/immersed-with-shaders) modpack.
 
+By default, the modpack comes with the [Insanity Shader](https://modrinth.com/shader/insanity-shader), which provides a nice atmosphere for this modpack.
+
 <details>
-    <summary>Recommended shaders:</summary>
+    <summary>Additional shader recommendations</summary>
+    <p>If you don't like the default shader, here are some extra recommendations:</p>
     <a href="https://sildurs-shaders.github.io/" target="_blank" rel="noopener noreferrer">Sildur's shaders</a>
     <br>
     <a href="https://modrinth.com/shader/bsl-shaders" target="_blank" rel="noopener noreferrer">BSL Shaders</a>
     <br>
     <a href="https://modrinth.com/shader/complementary-reimagined" target="_blank" rel="noopener noreferrer">Complementary Shaders - Reimagined</a>
-    <!-- <br> -->
-    <!-- <a href="https://modrinth.com/shader/complementary-unbound" target="_blank" rel="noopener noreferrer">Complementary Shaders - Unbound</a> -->
 </details>
 <br>
-
-### Issue with *HT's treechop* / *Jade* ?
-
-There is currently a known issue with HT's treechop where jade does not correctly display the different stages of a tree getting chopped down. The developers of the mods are working on the issue.
 
 ## Compile
 
@@ -80,7 +73,7 @@ The packwiz commands should create a .mrpack or .zip file containing the modrint
 
 ## Feedback and support
 
-If you need support or have any feedback, you can open a pull request or issue on the [github page](https://github.com/emmaexe/all-the-horrors/issues), or join the [discord](https://discord.gg/nDPrSyG5py) or [matrix (WIP)](https://matrix.to/#/#emmaexe-server:matrix.org) servers.
+If you need support or have any feedback, you can open a pull request or issue on the [github page](https://github.com/emmaexe/all-the-horrors/issues), or join the [discord](https://ln.emmaexe.moe/discord-server) or [matrix (WIP)](https://ln.emmaexe.moe/matrix-server) servers.
 
 ## Authors
 
