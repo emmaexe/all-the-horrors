@@ -1,0 +1,13 @@
+name = "All The Horrors Core"
+filename = "athcore-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Hvqhjscp/versions/pKRjupPz/athcore-0.1.0.jar"
+hash-format = "sha1"
+hash = "2b3797149bf80961a9d584759ab45aee53eafe5d"
+
+[update]
+[update.modrinth]
+mod-id = "Hvqhjscp"
+version = "pKRjupPz"

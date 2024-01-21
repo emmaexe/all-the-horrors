@@ -262,7 +262,7 @@ hash = "d7645024f541857dfe9e097c45e1306274b6ec0f26dcd80cc888f9c701920205"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "aca8a8c459123f0a9036272125acec217c1fe8f8c1663fe9bcfb1b4b1774ff9b"
+hash = "6130185f52103b3fe7f105bb4a72060bbfbfb3eee8920290b8c9a85a4a85f01f"
 
 [[files]]
 file = "config/okzoomer-client.toml"
@@ -343,6 +343,11 @@ hash = "82447893f79b861d827e134ca7f5a915456fd56cf95591e7f40188e37f708a9e"
 [[files]]
 file = "config/waveycapes.json"
 hash = "8ba8caf036bac59033157842f7812cf3eca3434a02d2e7e59648214fe42c48fc"
+
+[[files]]
+file = "mods/all-the-horrors-core.pw.toml"
+hash = "e27ad4155c609894dcf04c9dba1b238f2d5ac81bb4b646cd951ebe7a0e0a3c58"
+metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
@@ -492,6 +497,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "cf303e609b0beaf097122eecfa869d21be642e22465021f4f5aa0fa38c72b119"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "b6e8ce03539086dd35fe1a87295bde0a70302c73a97c4cf11da7329ab2f68340"
 metafile = true
 
 [[files]]
@@ -666,7 +676,7 @@ metafile = true
 
 [[files]]
 file = "mods/treechop.pw.toml"
-hash = "a74490528817e8f0392c3b607fa951d2076a6520e3285303b1cf3e6de43985c3"
+hash = "d119e1a901265ad090f175b6230838ca87778b0bc0e7b9753b164b360cbd28ff"
 metafile = true
 
 [[files]]
