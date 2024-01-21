@@ -1,12 +1,12 @@
 name = "All The Horrors"
 author = "emmaexe"
-version = "0.1.0"
+version = "0.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2f03bbd93db2d7b20a77165be35f7b6f1403969d206423df24a372446bde7643"
+hash = "66a66ebb1823a6e1637533137d3bc8566dddcf5a193dc141175e637f511e283b"
 
 [versions]
 forge = "43.3.5"

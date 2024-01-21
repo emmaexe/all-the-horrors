@@ -1,0 +1,13 @@
+name = "Enhanced Celestials"
+filename = "Enhanced_Celestials-forge-1.19.2-2.1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2rL16t1O/versions/OsNYDQZP/Enhanced_Celestials-forge-1.19.2-2.1.0.6.jar"
+hash-format = "sha1"
+hash = "ee4922d00f50c19fdd019de80f2e541ccd8677f1"
+
+[update]
+[update.modrinth]
+mod-id = "2rL16t1O"
+version = "OsNYDQZP"

@@ -1,3 +1,6 @@
 mods/*.jar
 *.zip
 *.mrpack
+forge/config/patchouli-client.toml
+forge/patchouli_books
+forge/mods/patchouli.pw.toml
